@@ -40,6 +40,7 @@ let airportData = "https://raw.githubusercontent.com/kossakova/Mapping_Earthquak
 
 
 
+
 // Grabbing our GeoJSON data.
 d3.json(airportData).then(function(data) {
     console.log(data)
