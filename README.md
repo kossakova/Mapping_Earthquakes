@@ -12,7 +12,7 @@
 
 
 ## Purpose
-In this project we sifted through data provided by U.S. Geological Survey to create a visualization to map earthquake data by latitude and longitude. The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
+In this project we sifted through data provided by the U.S. Geological Survey to create a visualization to map earthquake data by latitude and longitude. The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days.
 
 ## Tasks
 
